@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_obj_destroyingplatform_break",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.976,
+  "name":"snd_obj_destroyingplatform_break",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_obj_destroyingplatform_break.mp3",
+  "type":0,
+  "volume":0.57,
+}

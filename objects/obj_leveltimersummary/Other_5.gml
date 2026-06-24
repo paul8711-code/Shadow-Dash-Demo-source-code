@@ -1,0 +1,1 @@
+global.total_attempts = 1;
